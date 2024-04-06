@@ -1,16 +1,15 @@
 {
   "main": {
-    "name":"David Cyberlark",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "name":"Jenny Shen",
+    "description":"Faster learner and passionate about learning technology",
     "image":"profile.jpg",
-    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "bio":"My name is Jenny, a recent graduate from the University of Queensland with a degree in Software Engineering. Experience in Python, C#, and TypeScript, I am passionate about creating innovative software solutions. I thrive on challenges and am eager to continue learning and growing in the field.",
     "contactmessage":"Thank you for your feedback.",
-    "email": "Dave@cyberlark.com.au",
-    "phone": "(04) 1234 5678",
-    "github":"https://github.com/CyberlarkCode",
-    "project":"https://github.com/CyberlarkCode",
+    "email": "shen18071510@gmail.com.au",
+    "phone": "(04) 81798442",
+    "github":"https://github.com/limei-china",
+    "project":"https://github.com/limei-china",
     "address":{
-      "line1":"Address: 13 Main St",
       "line2":"City: Brisbane",
       "line3":"Country: Australia"
     },
@@ -28,29 +27,14 @@
     "resumedownload":"./images/resume.pdf",
     "social":[
       {
-        "name":"twitter",
-        "url":"https://twitter.com/daiwei920",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/CyberlarkCode",
+        "url":"https://github.com/limei-china",
         "className":"fa fa-github"
       },
       {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
-        "className":"fa fa-youtube-square"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com",
+        "url":"https://www.linkedin.com/in/jenny-shen-951963266/",
         "className":"fa fa-linkedin-square"
-      },
-      {
-        "name":"toutiao",
-        "url":"https://www.ixigua.com/home/1521358670931997/",
-        "className":"fa fa-weibo"
       }
     ]
   },
@@ -58,42 +42,46 @@
     "skillmessage":"Technical Skills",
     "education":[
       {
-        "school":"University of Wollongong",
-        "degree":"Master of Computer Science with distinction",
-        "graduated":"2007 - 2009",
+        "school":"University of Queensland",
+        "degree":"Master of Engineering Science (Software Engineering)",
+        "graduated":"Feb 2023 - Dec 2023",
         "description":""
       },
       {
-        "school":"AWS certification",
-        "degree":"AWS Certified Solutions Architect - Professional",
-        "graduated":"Dec 2021",
+        "school":"University of Queensland",
+        "degree":"Bachelor of Engineering (Software Engineering)",
+        "graduated":"July 2018 - Dec 2022",
         "description":""
       }
     ],
     "work":[
       {
-        "company":"Cyberlark Studio",
-        "title":"Founder",
-        "years":"Augest 2005 - Present",
-        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+        "company":"University of Queensland",
+        "title":"Research Assistant",
+        "years":"Nov 2023 - Present",
+        "description": [
+        "• Utilised Python to train various password guessing models, explore enhancement of cybersecurity measures.",
+        "• Conducted several experiments to evaluate the performance of different models, focusing on the guessing ability in various scenarios.",
+        "• Analysed experimental data to identify key factors influencing model effectiveness, help to improve in model design and functionality. ",
+        "• Wrote detailed research papers on the outcomes and findings of the experiments."]
       }
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"95%"
-      },
-      {
-        "name":"Frontend Development (React, Angular)",
+        "name":"Backend Development (API, Database)",
         "level":"85%"
       },
       {
-        "name":"Embeded Software development (C/C++)",
-        "level":"80%"
+        "name":"Frontend Development (React, CSS, HTML)",
+        "level":"75%"
       },
       {
-        "name":"Leadership & Management",
-        "level":"75%"
+        "name":"Embeded Software development (C)",
+        "level":"50%"
+      },
+      {
+        "name":"Teamwork & Collebration",
+        "level":"100%"
       },
       {
         "name":"Passion & Eager to learn",
@@ -109,41 +97,6 @@
         "category": "Course",
         "image":"00.png",
         "url":"https://course.cyberlark.com.au/courses/it"
-      },
-      {
-        "title":"Project",
-        "description": "Investment Property Calculator",
-        "category": "Project",
-        "image":"04.png",
-        "url":"https://property.cyberlark.com.au/"
-      },
-      {
-        "title":"Video",
-        "description": "How to use Investment Property Calculator",
-        "category": "Video",
-        "image":"01.png",
-        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
-      },
-      {
-        "title":"Video",
-        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
-        "category":"Video",
-        "image":"02.png",
-        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
-      },
-      {
-        "title":"Video",
-        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
-        "category": "Video",
-        "image":"03.png",
-        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
-      },
-      {
-        "title":"Video",
-        "description": "如何使用澳洲房产投资计算器",
-        "category": "Video",
-        "image":"01-chinese.png",
-        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
       }
     ]
   }
