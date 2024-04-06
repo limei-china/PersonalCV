@@ -92,11 +92,11 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Course",
-        "description": "如何在澳洲找IT工作",
-        "category": "Course",
+        "title":"Portfolio",
+        "description": "Personal Portfolio",
+        "category": "Portfolio",
         "image":"00.png",
-        "url":"https://course.cyberlark.com.au/courses/it"
+        "url":"https://limei-china.github.io/PersonalCV/"
       }
     ]
   }
