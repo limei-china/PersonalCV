@@ -13,18 +13,7 @@
       "line2":"City: Brisbane",
       "line3":"Country: Australia"
     },
-    "youtube":{
-      "english": {
-        "name": "David on Cloud",
-        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
-      },
-      "chinese": {
-        "name": "澳洲程序员大卫",
-        "url":"https://www.youtube.com/@aus-david"
-      }
-    },
-    "website": "http://cyberlark.com.au",
-    "resumedownload":"./images/resume.pdf",
+    "resumedownload":"./images/Resume.pdf",
     "social":[
       {
         "name":"github",
@@ -55,6 +44,17 @@
       }
     ],
     "work":[
+      {
+        "company":"Cyberlark Studio",
+        "title":"Backend developer Internship",
+        "years":"March 2024 - Present",
+        "description": [
+        "• Design and implement an algorithm to retrieve the most recent reminder events over a specified time period, optimising performance and usability (Typescript)",
+        "• Use DynamoDB to store and manage the properties, reminders and users’ data",
+        "• Implemented API changes to enhance functionality and user experience, including modifying the `POST` and `GET` method to improve data retrieval efficiency",
+        "• Setup Backend by using Nodejs and deploy project into AWS",
+        "• Collaborate with front end developers to integrate backend functionalities and create user-friendly website"]
+      },
       {
         "company":"University of Queensland",
         "title":"Research Assistant",
