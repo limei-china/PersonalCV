@@ -14,6 +14,7 @@
       "line3":"Country: Australia"
     },
     "resumedownload":"./images/Resume.pdf",
+    "transcriptdownload":"./images/Transcript.pdf",
     "social":[
       {
         "name":"github",
